@@ -8,8 +8,9 @@
 
 From mid-2015 to mid-2018, the actual vs strategic returns did not diverge.  From mid-2018 onward, our trading algorithm started to outperform the actual returns.  
 
-![Baseline Trading Algorithm - Actual vs Strategy Returns](Plot - Strategy vs Actual Returns.png)  
+![Baseline Trading Algorithm - Actual vs Strategy Returns](C:\Users\Pau1Atr80s\FINTECH\FINTECH-Challenge-14-Algorithmic-Trading\FINTECH-Challenge-14-Algorithmic-Trading\Instructions\Starter_Code\Plot - Strategy vs Actual Returns.png)  
 
+<img src="C:\Users\Pau1Atr80s\FINTECH\FINTECH-Challenge-14-Algorithmic-Trading\FINTECH-Challenge-14-Algorithmic-Trading\Instructions\Starter_Code\Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 100px; width:100px;"/>
 
 
 ## Tune the Baseline Trading Algorithm
@@ -55,7 +56,9 @@ After a good deal of tuning, the best set of parameters was the following:
 ### Date Offset of 6-months
 ### SMA window changes #3 - Short Window = 8, Long Window = 100
 
-![Baseline Trading Algorithm - Actual vs Strategy Returns](Plot - FINAL TUNING - Strategy vs Actual Returns.png)  
+![Baseline Trading Algorithm - Actual vs Strategy Returns](Plot - FINAL TUNING - Strategy vs Actual Returns.png)
+
+<img src="C:\Users\Pau1Atr80s\FINTECH\FINTECH-Challenge-14-Algorithmic-Trading\FINTECH-Challenge-14-Algorithmic-Trading\Instructions\Starter_Code\Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 200px; width:200px;"/>
 
 
 
