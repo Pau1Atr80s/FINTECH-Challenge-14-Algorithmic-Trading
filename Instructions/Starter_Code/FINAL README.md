@@ -10,7 +10,7 @@
 - From mid-2015 to mid-2018, the actual vs strategic returns did not diverge.  From mid-2018 onward, our trading algorithm started to outperform the actual returns.  
 
 
-<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
+<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
 
 <br>
 <br>
@@ -65,7 +65,7 @@ After a good deal of tuning, the best set of parameters was the following:
 <br>
 **SMA window changes #3 - Short Window = 8, Long Window = 100**
 
-<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
+<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
 
 <br>
 <br>
@@ -102,15 +102,15 @@ I predict that the tuned algorithm will be better positioned to capitalize on ma
 
 **BASELINE:**
 
-<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
+<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
 
 **TUNED:**
 
-<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
+<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
 
 **LOGISTIC REGRESSION:**
 
-<img src="Plot - Original Parameters with Logistic Regression - Strategy vs Actual Returns.png" alt="Logistic Regression Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
+<img src="Plot - Original Parameters with Logistic Regression - Strategy vs Actual Returns.png" alt="Logistic Regression Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
 
 
 
