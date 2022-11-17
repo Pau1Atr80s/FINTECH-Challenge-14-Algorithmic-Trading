@@ -1,4 +1,4 @@
-# FINTECH - Challenge 14 - Algorithmic-Trading
+# FINTECH - Challenge 14 - Algorithmic Trading
 <br>
 
 
@@ -10,12 +10,13 @@
 - From mid-2015 to mid-2018, the actual vs strategic returns did not diverge.  From mid-2018 onward, our trading algorithm started to outperform the actual returns.  
 
 
-<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
+<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
 
 <br>
 <br>
 
 ## Tune the Baseline Trading Algorithm
+<br>
 
 ### DATE OFFSET
 <br>
@@ -64,7 +65,7 @@ After a good deal of tuning, the best set of parameters was the following:
 <br>
 **SMA window changes #3 - Short Window = 8, Long Window = 100**
 
-<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
+<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
 
 <br>
 <br>
@@ -83,7 +84,7 @@ Summary:  The Logistic Regression model (using the original parameters) yielded 
 
 *Did this new model perform better or worse than the tuned trading algorithm?*
 
-- The Logistic Regression model did perform better through the given time period.  
+- The Logistic Regression model did, in fact, perform better through the given time period.  Though, as I lay out in the summary evaluation report below, the Logistic Regression model's stumble in early 2021 points towards worse future performance than the tuned trading algorithm.
 
 <br>
 <br>
@@ -97,18 +98,19 @@ I predict that the tuned algorithm will be better positioned to capitalize on ma
 
 **Here are the final plots for the baseline, tuned, and Logistic Regression models:**
 <br>
+<br>
 
 **BASELINE:**
 
-<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
+<img src="Plot - Strategy vs Actual Returns.png" alt="Baseline Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
 
 **TUNED:**
 
-<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
+<img src="Plot - FINAL TUNING - Strategy vs Actual Returns.png" alt="Tuned Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
 
 **LOGISTIC REGRESSION:**
 
-<img src="Plot - Original Parameters with Logistic Regression - Strategy vs Actual Returns.png" alt="Logistic Regression Trading Algorithm - Actual vs Strategy Returns" style="height: 300px; width:400px;"/>
+<img src="Plot - Original Parameters with Logistic Regression - Strategy vs Actual Returns.png" alt="Logistic Regression Trading Algorithm - Actual vs Strategy Returns" style="height: 400px; width:650px;"/>
 
 
 
